@@ -28,3 +28,6 @@ To play the game, simply follow these steps:
 
 Contributions to this project are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to submit pull requests or open issues.
 
+
+## Update : 
+Will add sounds and some animations ....
